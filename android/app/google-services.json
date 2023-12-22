@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014332476497",
+    "project_id": "duplicate-of-therapyaks-inlaiq",
+    "storage_bucket": "duplicate-of-therapyaks-inlaiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014332476497:android:dcf440b3841e17760f3c70",
+        "android_client_info": {
+          "package_name": "com.mycompany.therapyaks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuIGGkHppOl1G2JmQyyJKApUOlOnVTzNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

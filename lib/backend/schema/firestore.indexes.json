@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "journal",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "createdDate",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
